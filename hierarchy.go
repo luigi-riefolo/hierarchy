@@ -202,8 +202,6 @@ func makeHierarchyTree(employees []*EmployeeNode) *EmployeeNode {
 			curr.addReportingEmployee(reportingEmployee)
 		}
 
-		// Delete current employee from the map
-		//delete(employeesMap, curr.ID)
 		// Get next employee
 		if len(employees) == 0 {
 			break
