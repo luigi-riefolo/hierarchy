@@ -1,0 +1,172 @@
+[
+    {
+        "id": "A",
+        "name": "Claire",
+        "employees": [ "B", "C" ]
+    },
+    {
+        "id": "B",
+        "name": "Mario Mario",
+        "employees": [ "D", "E", "F", "G", "H" ]
+    },
+    {
+        "id": "C",
+        "name": "Luigi Mario",
+        "employees": [ "H", "I", "J", "K", "L", "M", "Y" ]
+    },
+    {
+        "id": "D",
+        "name": "Yoshi",
+        "employees": [ "N", "O" ]
+    },
+    {
+        "id": "E",
+        "name": "Princess Peach",
+        "employees": [ "P" ]
+    },
+    {
+        "id": "F",
+        "name": "Dr. Mario",
+        "employees": [ "P", "Q" ]
+    },
+    {
+        "id": "G",
+        "name": "Donkey Kong",
+        "employees": [ "R", "S", "T", "U" ]
+    },
+    {
+        "id": "H",
+        "name": "Toad",
+        "employees": [ "U", "V", "X" ]
+    },
+    {
+        "id": "I",
+        "name": "Birdo",
+        "employees": [ "X" ]
+    },
+    {
+        "id": "J",
+        "name": "King Koopa",
+        "employees": [ "Z", "A1" ]
+    },
+    {
+        "id": "K",
+        "name": "Koopa",
+        "employees": [ "B1" ]
+    },
+    {
+        "id": "L",
+        "name": "Baby Kong",
+        "employees": [ "C1" ]
+    },
+    {
+        "id": "M",
+        "name": "Waluigi",
+        "employees": [ "D1", "E1", "F1" ]
+    },
+    {
+        "id": "N",
+        "name": "Daisy",
+        "employees": []
+    },
+    {
+        "id": "O",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "P",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "Q",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "R",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "S",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "T",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "U",
+        "name": "Bowser",
+        "employees": [ "T1" ]
+    },
+    {
+        "id": "V",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "X",
+        "name": "Bowser",
+        "employees": [ "P1" ]
+    },
+    {
+        "id": "Y",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "W",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "Z",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "A1",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "B1",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "C1",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "D1",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "E1",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "F1",
+        "name": "Bowser",
+        "employees": []
+    },
+    {
+        "id": "P1",
+        "name": "Bowser",
+        "employees": [ "T1" ]
+    },
+    {
+        "id": "T1",
+        "name": "Bowser",
+        "employees": []
+    }
+]
